@@ -16,9 +16,3 @@
       $(".nav__menu").slideToggle();
     });
   });
-
-  // $(document).ready(function(){
-  //   $("#flip").click(function(){
-  //     $("#panel").slideToggle("slow");
-  //   });
-  // });
